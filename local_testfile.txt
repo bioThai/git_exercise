@@ -6,3 +6,5 @@ Sample edit 2 while on test_branch1.
 
 Sample edit from test_branch2!
 
+Edit while in detached head state.
+
