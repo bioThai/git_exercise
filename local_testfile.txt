@@ -3,3 +3,6 @@ This is a sample text file for Git exercise.
 Sample edit 1!
 
 Sample edit 2 while on test_branch1.
+
+Edit while in detached head state.
+
